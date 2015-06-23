@@ -1,6 +1,6 @@
 [
   {
-    "repository": "CyanogenMod/device_lge_g3-common",
+    "repository": "CyanogenMod/android_device_lge_g3-common",
     "target_path": "device/lge/g3-common",
     "branch":     "cm-12.1" 
   },

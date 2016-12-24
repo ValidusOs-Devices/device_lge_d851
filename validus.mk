@@ -11,6 +11,7 @@ $(call inherit-product, vendor/validus/config/nfc_enhanced.mk)
 PRODUCT_NAME := validus_d851
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
+    DEVICE_MAINTAINERS="Adam Ovadia (oadam11)" \
     PRODUCT_DEVICE="g3" \
     PRODUCT_NAME="g3_tmo_us" \
     BUILD_FINGERPRINT="lge/g3_tmo_us/g3:6.0/MRA58K/1609517159bca:user/release-keys" \
